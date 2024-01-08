@@ -7,5 +7,3 @@ The upcoming report, available on my GitHub repository, will not only showcase t
 
 ![accidents](https://github.com/kauser-1712/Bangalore_Traffic_EDA/assets/141541563/a62f43f6-66a6-41c4-8ea2-c929af58f5e9)
 ![graph](https://github.com/kauser-1712/Bangalore_Traffic_EDA/assets/141541563/76342ba7-496f-4249-8f23-d865dd84ecde)
-![image](https://github.com/kauser-1712/Bangalore_Traffic_EDA/assets/141541563/e5ef4e35-de36-4c82-8fe1-fa77f9330b12)
-
